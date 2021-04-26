@@ -1,0 +1,10 @@
+{
+  "name": "Advance-React",
+  "version": "1.0.0",
+  "description": "Advance React",
+  "main": "lib/server.js",
+  "repository": "https://github.com/Dhrubot/advance-react",
+  "author": "Dhrubo",
+  "license": "y",
+  "private": false
+}
